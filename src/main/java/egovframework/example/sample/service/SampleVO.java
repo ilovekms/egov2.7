@@ -27,7 +27,7 @@ package egovframework.example.sample.service;
  * @author 개발프레임웍크 실행환경 개발팀
  * @since 2009. 03.16
  * @version 1.0
- * @see 0000000000000000000000666000000012212121333333333333333333333333333
+ * @see
  * 
  *  Copyright (C) by MOPAS All right reserved.
  */
